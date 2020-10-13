@@ -1,0 +1,2 @@
+name: ZhengN, num: 66, c_score: 95
+name: LiHua, num: 67, c_score: 98
