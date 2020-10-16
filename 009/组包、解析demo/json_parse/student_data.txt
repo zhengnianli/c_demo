@@ -1,0 +1,5 @@
+{
+    "name": "ZhengN",
+    "num": 88,
+    "c_score": 95
+}

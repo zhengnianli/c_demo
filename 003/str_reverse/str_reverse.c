@@ -62,7 +62,7 @@ int main(void)
     
     char *dest_str = (char*)malloc(strlen(src_str));
     printf("Before reverse: %s\n", src_str);
-    dest_str = str_reverse(src_str);
+    strcpy(dest_str, str_reverse(src_str));
     printf("After reverse: %s\n", dest_str);
     free(dest_str);
     dest_str = NULL;

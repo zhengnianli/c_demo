@@ -1,0 +1,3 @@
+name: ZhengN, num: 88, c_score: 95
+name: ZhangSan, num: 89, c_score: 99
+name: LiHua, num: 90, c_score: 90
