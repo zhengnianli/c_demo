@@ -24,6 +24,8 @@
 
 010：[不完全类型](https://t.1yb.co/7y87)
 
+011：[nanomsg使用demo](https://t.1yb.co/kBpD)
+
 关注微信公众号**嵌入式大杂烩**，查看更多资源。
 
 [![](https://s1.ax1x.com/2020/09/16/w2fqLn.jpg)](https://imgchr.com/i/w2fqLn)
