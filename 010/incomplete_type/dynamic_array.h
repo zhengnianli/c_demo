@@ -1,7 +1,6 @@
 #ifndef __DYNAMIC_ARRAY_H
 #define __DYNAMIC_ARRAY_H
 
-/* 结构体“重命名” */
 typedef struct dynamic_array dynamic_array_def;
 
 /* 初始化dynamic_array */

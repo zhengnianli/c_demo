@@ -26,6 +26,10 @@
 
 011：[nanomsg使用demo](https://t.1yb.co/kBpD)
 
+012：[ini文件解析](https://mp.weixin.qq.com/s?__biz=MzU5MzcyMjI4MA==&mid=2247501255&idx=1&sn=9db55603769f533735b17c35e5c8ae5e&chksm=fe0eab00c9792216a05446d317d8337b60573ce528ab971f1d2c3150953cae7d68fb5c8183ab&token=767087017&lang=zh_CN#rd)
+
+013：[获取本机IP地址](https://mp.weixin.qq.com/s?__biz=MzU5MzcyMjI4MA==&mid=2247501255&idx=1&sn=9db55603769f533735b17c35e5c8ae5e&chksm=fe0eab00c9792216a05446d317d8337b60573ce528ab971f1d2c3150953cae7d68fb5c8183ab&token=767087017&lang=zh_CN#rd)
+
 关注微信公众号**嵌入式大杂烩**，查看更多资源。
 
 [![](https://s1.ax1x.com/2020/09/16/w2fqLn.jpg)](https://imgchr.com/i/w2fqLn)
